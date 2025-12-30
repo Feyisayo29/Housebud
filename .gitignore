@@ -22,7 +22,8 @@ dist/
 build/
 
 # Vendor libraries (if you keep third-party files)
-assets/vendor/
+# If you want to track vendor files, remove or override this line.
+# assets/vendor/
 
 # Windows shortcuts
 *.lnk
