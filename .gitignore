@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Environment
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Build / output
+dist/
+build/
+
+# Vendor libraries (if you keep third-party files)
+assets/vendor/
+
+# Windows shortcuts
+*.lnk
